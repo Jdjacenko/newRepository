@@ -13,6 +13,7 @@ public class RandomNumberService {
                 int result = (a + b + c);
 
                 System.out.println("Total amount: " + (result));
+                System.out.println("First number: " + a);
 
             }
         }
